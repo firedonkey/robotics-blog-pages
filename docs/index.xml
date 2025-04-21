@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My Robotics Blog</title>
-    <link>https://firedonkey.github.io/robotics-blog-pages/</link>
+    <link>http://localhost:1313/robotics-blog-pages/</link>
     <description>Recent content on My Robotics Blog</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>en-us</language>
-    <atom:link href="https://firedonkey.github.io/robotics-blog-pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/robotics-blog-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://firedonkey.github.io/robotics-blog-pages/posts/</link>
+      <link>http://localhost:1313/robotics-blog-pages/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://firedonkey.github.io/robotics-blog-pages/posts/</guid>
+      <guid>http://localhost:1313/robotics-blog-pages/posts/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34; dir=&#34;auto&#34;&gt;
 
@@ -24,7 +24,7 @@
 &lt;meta name=&#34;description&#34; content=&#34;Posts - My New Hugo Site&#34;&gt;
 &lt;meta name=&#34;author&#34; content=&#34;&#34;&gt;
 &lt;link rel=&#34;canonical&#34; href=&#34;https://example.org/posts/&#34;&gt;
-&lt;link crossorigin=&#34;anonymous&#34; href=&#34;https://firedonkey.github.io/robotics-blog-pages/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css&#34; integrity=&#34;sha256-9J1myq6eoP1D8h8p5xqNPihFF&amp;#43;13Dyqob6ASlTrTye8=&#34; rel=&#34;preload stylesheet&#34; as=&#34;style&#34;&gt;
+&lt;link crossorigin=&#34;anonymous&#34; href=&#34;http://localhost:1313/robotics-blog-pages/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css&#34; integrity=&#34;sha256-9J1myq6eoP1D8h8p5xqNPihFF&amp;#43;13Dyqob6ASlTrTye8=&#34; rel=&#34;preload stylesheet&#34; as=&#34;style&#34;&gt;
 &lt;link rel=&#34;icon&#34; href=&#34;https://example.org/favicon.ico&#34;&gt;
 &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;16x16&#34; href=&#34;https://example.org/favicon-16x16.png&#34;&gt;
 &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; sizes=&#34;32x32&#34; href=&#34;https://example.org/favicon-32x32.png&#34;&gt;
