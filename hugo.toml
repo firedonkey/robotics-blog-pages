@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'My Robotics Blog'
 theme = "PaperMod"
 publishDir = "docs"
+[params]
+mainSections = ["posts"]

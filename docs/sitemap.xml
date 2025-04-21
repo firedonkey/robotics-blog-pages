@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/robotics-blog-pages/posts/</loc>
+    <loc>https://firedonkey.github.io/robotics-blog-pages/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/robotics-blog-pages/categories/</loc>
+    <loc>https://firedonkey.github.io/robotics-blog-pages/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/robotics-blog-pages/</loc>
+    <loc>https://firedonkey.github.io/robotics-blog-pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/robotics-blog-pages/tags/</loc>
+    <loc>https://firedonkey.github.io/robotics-blog-pages/tags/</loc>
   </url>
 </urlset>
