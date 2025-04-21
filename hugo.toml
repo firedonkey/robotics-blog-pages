@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://firedonkey.github.io/robotics-blog-pages/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Robotics Blog'
 theme = "PaperMod"
+publishDir = "docs"
